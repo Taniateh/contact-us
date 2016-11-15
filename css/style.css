@@ -1,0 +1,37 @@
+.container {
+  background: #ffffff;
+  font-family: 'Roboto', sans-serif;
+  font-size: 13px;
+  color: #7b7b7b; }
+  .container h1 {
+    font-size: 40px;
+    color: #2aa7cb; 
+    font-weight:300;
+  }
+
+  .container h3 {
+    font-size: 16px;
+    color: #2aa7cb; }
+
+img {
+  height: 105px;
+  width: 95; }
+
+.col-4 {
+  background: #f3f3f3; }
+
+.message {
+  background: #16808c;
+  height: 40px;
+  width: 180px; }
+.foto{
+  float: left;
+  width: 30%;
+}
+.new{
+  float: left;
+  width: 70%;
+}
+.lego{
+  clear: both;
+}
